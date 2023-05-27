@@ -15,9 +15,7 @@ module.exports = withBundleAnalyzer({
       'source.unsplash.com',
       'p1.qhimg.com',
       'webmention.io',
-      's1.vika.cn',
-      's.1688.com',
-      'g.alicdn.com'
+      's1.vika.cn'
     ]
   },
   // 默认将feed重定向至 /public/rss/feed.xml
